@@ -1,5 +1,5 @@
 - Hi, I’m @khantact, but my name is Kevin Han
-- I am currently a freshman learning Computer Sceince at Colgate University
+- I am currently a freshman learning Computer Science at Colgate University
 - I can be reached through email at kevinhan0@gmail.com
 
 <!---
